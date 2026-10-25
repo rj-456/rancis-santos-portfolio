@@ -1,0 +1,19 @@
+{
+  "name": "rancis-santos-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive Developer Portfolio for Rancis Jungco Santos - IT Intern & Full-Stack Developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "internship",
+    "ojt"
+  ],
+  "author": "Rancis Jungco Santos",
+  "license": "MIT"
+}
